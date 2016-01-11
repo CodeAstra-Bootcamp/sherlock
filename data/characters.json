@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Sherlock Holmes",
+    "thumbnail": "sherlock.jpg",
+    "description": "Brilliant, aloof and almost entirely lacking in social graces."
+  },
+  {
+    "name": "Dr John Watson",
+    "thumbnail": "watson.jpg",
+    "description": "Brave, resourceful, practical."
+  },
+  {
+    "name": "Mary Morstan",
+    "thumbnail": "mary.jpg",
+    "description": "John met Mary Morstan following the death of Sherlock."
+  },
+  {
+    "name": "Mycroft Holmes",
+    "thumbnail": "mycroft.jpg",
+    "description": "A brilliant, insane genius."
+  },
+  {
+    "name": "Detective Inspector Lestrade",
+    "thumbnail": "lestrade.jpg",
+    "description": "The best that Scotland Yard has to offer."
+  },
+  {
+    "name": "Jim Moriarty",
+    "thumbnail": "moriarty.jpg",
+    "description": "A brilliant, insane genius."
+  },
+  {
+    "name": "Mrs Hudson",
+    "thumbnail": "hudson.jpg",
+    "description": "Landlady not housekeeper!"
+  },
+  {
+    "name": "Molly Hooper",
+    "thumbnail": "molly.jpg",
+    "description": "Works at St Bartholomew's Hospital"
+  },
+  {
+    "name": "Phillip Anderson",
+    "thumbnail": "phillip.jpg",
+    "description": "Fun loving and easy minded."
+  }
+]
